@@ -6,3 +6,7 @@ Node JS server created while following the book "Backend Development with Node.j
 - /users -> users api welcome
 - /users/:id -> get user with id
 - /test.pdf -> get static pdf
+
+To start mongoose db
+
+`brew services start mongodb-community`
